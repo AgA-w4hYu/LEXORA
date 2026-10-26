@@ -1,0 +1,8 @@
+{
+  "/kanal/page": "app/kanal/page.js",
+  "/regulations/page": "app/regulations/page.js",
+  "/page": "app/page.js",
+  "/education/page": "app/education/page.js",
+  "/regulations/[id]/page": "app/regulations/[id]/page.js",
+  "/toolkit/page": "app/toolkit/page.js"
+}
